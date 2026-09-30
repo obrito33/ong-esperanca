@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0b3d70"/><stop offset="1" stop-color="#1689e8"/></linearGradient></defs>
+<rect width="1000" height="650" rx="30" fill="url(#g)"/>
+<circle cx="180" cy="325" r="110" fill="#fff" opacity=".15"/>
+<circle cx="820" cy="325" r="150" fill="#fff" opacity=".10"/>
+<text x="500" y="290" text-anchor="middle" font-family="Arial" font-size="54" font-weight="700" fill="white">Apoio Comunitário</text>
+<text x="500" y="350" text-anchor="middle" font-family="Arial" font-size="27" fill="#dff2ff">Ações para fortalecer comunidades</text>
+<text x="500" y="510" text-anchor="middle" font-family="Arial" font-size="90" fill="white">♡</text>
+</svg>
